@@ -1,0 +1,1620 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-27T07:27:37.654Z",
+  "subjects": {
+    "arabic": {
+      "bookCount": 5,
+      "chunkCount": 658,
+      "file": "subjects/arabic.json"
+    },
+    "biology": {
+      "bookCount": 22,
+      "chunkCount": 3009,
+      "file": "subjects/biology.json"
+    },
+    "chemistry": {
+      "bookCount": 11,
+      "chunkCount": 1528,
+      "file": "subjects/chemistry.json"
+    },
+    "english": {
+      "bookCount": 18,
+      "chunkCount": 2450,
+      "file": "subjects/english.json"
+    },
+    "general": {
+      "bookCount": 28,
+      "chunkCount": 1871,
+      "file": "subjects/general.json"
+    },
+    "islamic": {
+      "bookCount": 10,
+      "chunkCount": 1091,
+      "file": "subjects/islamic.json"
+    },
+    "math": {
+      "bookCount": 21,
+      "chunkCount": 1849,
+      "file": "subjects/math.json"
+    },
+    "physics": {
+      "bookCount": 11,
+      "chunkCount": 1154,
+      "file": "subjects/physics.json"
+    },
+    "social": {
+      "bookCount": 5,
+      "chunkCount": 410,
+      "file": "subjects/social.json"
+    }
+  },
+  "books": [
+    {
+      "id": "moe-5f776b6b2abba784",
+      "title": "كتاب اللغة العربية كتاب المؤنس للصف الثاني عشر الفصل الأول",
+      "subjectId": "arabic",
+      "grade": 12,
+      "sourcePath": "grade-12/semester-1/كتاب-اللغة-العربية-كتاب-المؤنس-للصف-الثاني-عشر-الفصل-الأول.pdf",
+      "pageCount": 172,
+      "chunkCount": 191,
+      "needsOCR": false,
+      "contentKey": "5f776b6b2abba7848a272edef8534bbe647ab1b531f6b3aa77db5d8a17fd8f1f"
+    },
+    {
+      "id": "moe-affb9cf14d905f7b",
+      "title": "كتاب اللغة العربية كتاب المؤنس للصف الحادي عشر الفصل الأول",
+      "subjectId": "arabic",
+      "grade": 11,
+      "sourcePath": "grade-11/semester-1/كتاب-اللغة-العربية-كتاب-المؤنس-للصف-الحادي-عشر-الفصل-الأول.pdf",
+      "pageCount": 130,
+      "chunkCount": 128,
+      "needsOCR": false,
+      "contentKey": "affb9cf14d905f7be843b9c558cab3a83e3d655ba0e4c8daac534bab3119dfff"
+    },
+    {
+      "id": "moe-580542deaebc13a3",
+      "title": "كتاب اللغة العربية كتاب المؤنس للصف الحادي عشر الفصل الثاني",
+      "subjectId": "arabic",
+      "grade": 11,
+      "sourcePath": "grade-11/semester-2/كتاب-اللغة-العربية-كتاب-المؤنس-للصف-الحادي-عشر-الفصل-الثاني.pdf",
+      "pageCount": 127,
+      "chunkCount": 127,
+      "needsOCR": false,
+      "contentKey": "580542deaebc13a388e104b2d321d3b495cf44a3c07c5c7620d84354af2407c3"
+    },
+    {
+      "id": "moe-fa4fa396cf876bdc",
+      "title": "كتاب اللغة العربية كتاب المفيد للصف الحادي عشر",
+      "subjectId": "arabic",
+      "grade": 11,
+      "sourcePath": "grade-11/كتاب-اللغة-العربية-كتاب-المفيد-للصف-الحادي-عشر.pdf",
+      "pageCount": 154,
+      "chunkCount": 79,
+      "needsOCR": false,
+      "contentKey": "fa4fa396cf876bdc864a9f61173efa3de3ba0c6811ca8fa8b70c7b4d3508840a"
+    },
+    {
+      "id": "moe-4eb85cbe2264be15",
+      "title": "كتاب المؤنس الصف الثاني عشر الفصل الثاني",
+      "subjectId": "arabic",
+      "grade": 12,
+      "sourcePath": "grade-12/semester-2/كتاب-المؤنس-الصف-الثاني-عشر-الفصل-الثاني.pdf",
+      "pageCount": 154,
+      "chunkCount": 133,
+      "needsOCR": false,
+      "contentKey": "4eb85cbe2264be15e1af296a452be1a7f16c9c24d5a15a84663657949bd9881a"
+    },
+    {
+      "id": "moe-38dc90639dfbac3f",
+      "title": "دليل المعلم مادة الأحياء الصف الحادي عشر الفصل الأول",
+      "subjectId": "biology",
+      "grade": 11,
+      "sourcePath": "teacher-guides/دليل-المعلم-مادة-الأحياء-الصف-الحادي-عشر-الفصل-الأول.pdf",
+      "pageCount": 135,
+      "chunkCount": 94,
+      "needsOCR": false,
+      "contentKey": "38dc90639dfbac3f653b8276441d60725c6baf7b3411feb34841ddc0554c1829"
+    },
+    {
+      "id": "moe-67d28bcb21186fdd",
+      "title": "دليل المعلم مادة الأحياء للصف الثاني عشر الفصل الأول",
+      "subjectId": "biology",
+      "grade": 12,
+      "sourcePath": "teacher-guides/دليل-المعلم-مادة-الأحياء-للصف-الثاني-عشر-الفصل-الأول.pdf",
+      "pageCount": 276,
+      "chunkCount": 212,
+      "needsOCR": false,
+      "contentKey": "67d28bcb21186fdd2f38e356d3eee2fddf419ae4ea89e61abdbbbff2a9e9ae42"
+    },
+    {
+      "id": "moe-56b8b3c0dd136080",
+      "title": "دليل المعلم مادة الأحياء للصف الثاني عشر الفصل الثاني",
+      "subjectId": "biology",
+      "grade": 12,
+      "sourcePath": "teacher-guides/دليل-المعلم-مادة-الأحياء-للصف-الثاني-عشر-الفصل-الثاني-.pdf",
+      "pageCount": 282,
+      "chunkCount": 217,
+      "needsOCR": false,
+      "contentKey": "56b8b3c0dd136080d68cd008eaf0f1bc5b8c8a24f3db280e3e0cfccc07f13aac"
+    },
+    {
+      "id": "moe-5a74a99eb61a86cc",
+      "title": "دليل المعلم مادة الأحياء للصف الحادي عشر الفصل الثاني",
+      "subjectId": "biology",
+      "grade": 11,
+      "sourcePath": "teacher-guides/دليل-المعلم-مادة-الأحياء-للصف-الحادي-عشر-الفصل-الثاني.pdf",
+      "pageCount": 244,
+      "chunkCount": 175,
+      "needsOCR": false,
+      "contentKey": "5a74a99eb61a86ccb3dca2c5ab45a311520a2a859b2e713b6c10b9435fe3e823"
+    },
+    {
+      "id": "moe-f3a3978d05342ae2",
+      "title": "دليل المعلم مادة العلوم البيئية للصف الثاني عشر الفصل الأول",
+      "subjectId": "biology",
+      "grade": 12,
+      "sourcePath": "teacher-guides/دليل-المعلم-مادة-العلوم-البيئية-للصف-الثاني-عشر-الفصل-الأول.pdf",
+      "pageCount": 312,
+      "chunkCount": 221,
+      "needsOCR": false,
+      "contentKey": "f3a3978d05342ae2459090f4063e5beb3aea70abcb0eeb1047f19c5c40ea8a9c"
+    },
+    {
+      "id": "moe-875d5525fb1a6fec",
+      "title": "دليل المعلم مادة العلوم البيئية للصف الثاني عشر الفصل الثاني",
+      "subjectId": "biology",
+      "grade": 12,
+      "sourcePath": "teacher-guides/دليل-المعلم-مادة-العلوم-البيئية-للصف-الثاني-عشر-الفصل-الثاني.pdf",
+      "pageCount": 276,
+      "chunkCount": 201,
+      "needsOCR": false,
+      "contentKey": "875d5525fb1a6fec8733347d61c00ac7dd5939a5b5725598429c885a17972d96"
+    },
+    {
+      "id": "moe-9eda8363ae1d52cd",
+      "title": "كتاب الأحياء كتاب التجارب والأنشطة للصف الثاني عشر الفصل الأول",
+      "subjectId": "biology",
+      "grade": 12,
+      "sourcePath": "grade-12/semester-1/كتاب-الأحياء-كتاب-التجارب-والأنشطة-للصف-الثاني-عشر-الفصل-الأول.pdf",
+      "pageCount": 158,
+      "chunkCount": 90,
+      "needsOCR": false,
+      "contentKey": "9eda8363ae1d52cd194cde2cff8428b80ec6eae1697e84a39f531b5893d286f7"
+    },
+    {
+      "id": "moe-04b497ec0f759a35",
+      "title": "كتاب الأحياء كتاب التجارب والأنشطة للصف الثاني عشر الفصل الثاني",
+      "subjectId": "biology",
+      "grade": 12,
+      "sourcePath": "grade-12/semester-2/كتاب-الأحياء-كتاب-التجارب-والأنشطة-للصف-الثاني-عشر-الفصل-الثاني.pdf",
+      "pageCount": 226,
+      "chunkCount": 116,
+      "needsOCR": false,
+      "contentKey": "04b497ec0f759a350101b1f77fe3aa0f921e18f78a996accb19976e1a0e6836e"
+    },
+    {
+      "id": "moe-e45ee4d7f3a7d9cb",
+      "title": "كتاب الأحياء كتاب التجارب والأنشطة للصف الحادي عشر الفصل الأول",
+      "subjectId": "biology",
+      "grade": 11,
+      "sourcePath": "grade-11/semester-1/كتاب-الأحياء-كتاب-التجارب-والأنشطة-للصف-الحادي-عشر-الفصل-الأول.pdf",
+      "pageCount": 137,
+      "chunkCount": 69,
+      "needsOCR": false,
+      "contentKey": "e45ee4d7f3a7d9cb25de9ec44bbdceb1035d54071fbb3af5daa23441fdd47131"
+    },
+    {
+      "id": "moe-589205d42ef26b1d",
+      "title": "كتاب الأحياء كتاب التجارب والأنشطة للصف الحادي عشر الفصل الثاني",
+      "subjectId": "biology",
+      "grade": 11,
+      "sourcePath": "grade-11/semester-2/كتاب-الأحياء-كتاب-التجارب-والأنشطة-للصف-الحادي-عشر-الفصل-الثاني.pdf",
+      "pageCount": 178,
+      "chunkCount": 84,
+      "needsOCR": false,
+      "contentKey": "589205d42ef26b1dca901ae005b6203c9f7cb87ec20610814b4d0856cb25a71f"
+    },
+    {
+      "id": "moe-cfc0d62b8261be99",
+      "title": "كتاب الأحياء كتاب الطالب للصف الثاني عشر الفصل الأول",
+      "subjectId": "biology",
+      "grade": 12,
+      "sourcePath": "grade-12/semester-1/كتاب-الأحياء-كتاب-الطالب-للصف-الثاني-عشر-الفصل-الأول.pdf",
+      "pageCount": 220,
+      "chunkCount": 150,
+      "needsOCR": false,
+      "contentKey": "cfc0d62b8261be99ec98e5f6cf742adfd00108bc027fb5ff125c8898cb53d495"
+    },
+    {
+      "id": "moe-acd209c350d41072",
+      "title": "كتاب الأحياء كتاب الطالب للصف الثاني عشر الفصل الثاني",
+      "subjectId": "biology",
+      "grade": 12,
+      "sourcePath": "grade-12/semester-2/كتاب-الأحياء-كتاب-الطالب-للصف-الثاني-عشر-الفصل-الثاني.pdf",
+      "pageCount": 188,
+      "chunkCount": 156,
+      "needsOCR": false,
+      "contentKey": "acd209c350d41072e5c76fd849ab16a28f12dff41ee3b6c7a007efaa4e043959"
+    },
+    {
+      "id": "moe-c01d499763250e1e",
+      "title": "كتاب الأحياء كتاب الطالب للصف الحادي عشر الفصل الأول",
+      "subjectId": "biology",
+      "grade": 11,
+      "sourcePath": "grade-11/semester-1/كتاب-الأحياء-كتاب-الطالب-للصف-الحادي-عشر-الفصل-الأول.pdf",
+      "pageCount": 160,
+      "chunkCount": 172,
+      "needsOCR": false,
+      "contentKey": "c01d499763250e1e16ddd4bfb59f0384ce521d0b21b22962ef169d499c5b9082"
+    },
+    {
+      "id": "moe-bc925b3906da2165",
+      "title": "كتاب الأحياء كتاب الطالب للصف الحادي عشر الفصل الثاني",
+      "subjectId": "biology",
+      "grade": 11,
+      "sourcePath": "grade-11/semester-2/كتاب-الأحياء-كتاب-الطالب-للصف-الحادي-عشر-الفصل-الثاني.pdf",
+      "pageCount": 146,
+      "chunkCount": 103,
+      "needsOCR": false,
+      "contentKey": "bc925b3906da2165bbe5cdbf48c491bb13455207626efd143bc4523577b9c1d6"
+    },
+    {
+      "id": "moe-67b751be99f7ca17",
+      "title": "كتاب العلوم البيئية كتاب التجارب والأنشطة للصف الثاني عشر الفصل الثاني",
+      "subjectId": "biology",
+      "grade": 12,
+      "sourcePath": "grade-12/semester-2/كتاب-العلوم-البيئية-كتاب-التجارب-والأنشطة-للصف-الثاني-عشر-الفصل-الثاني.pdf",
+      "pageCount": 146,
+      "chunkCount": 96,
+      "needsOCR": false,
+      "contentKey": "67b751be99f7ca1771812f36178edfeb93c251da635af9d230141fa75b3e8c4c"
+    },
+    {
+      "id": "moe-dd67b0b3c08d1de7",
+      "title": "كتاب العلوم البيئية كتاب التجارب والأنشطة للصف الحادي عشر الفصل الأول 2",
+      "subjectId": "biology",
+      "grade": 11,
+      "sourcePath": "grade-11/semester-1/كتاب-العلوم-البيئية-كتاب-التجارب-والأنشطة-للصف-الحادي-عشر-الفصل-الأول-2.pdf",
+      "pageCount": 164,
+      "chunkCount": 79,
+      "needsOCR": false,
+      "contentKey": "dd67b0b3c08d1de77126a640d14a559b16e767e22b594be67bf35cec204f69f8"
+    },
+    {
+      "id": "moe-2aa53779c8021b1c",
+      "title": "كتاب العلوم البيئية كتاب التجارب والأنشطة للصف الحادي عشر الفصل الثاني",
+      "subjectId": "biology",
+      "grade": 11,
+      "sourcePath": "grade-11/semester-2/كتاب-العلوم-البيئية-كتاب-التجارب-والأنشطة-للصف-الحادي-عشر-الفصل-الثاني.pdf",
+      "pageCount": 122,
+      "chunkCount": 59,
+      "needsOCR": false,
+      "contentKey": "2aa53779c8021b1c4275ccaf972a99052c7dbb16201424a842648dbd16d1406d"
+    },
+    {
+      "id": "moe-f23197c9b38121ad",
+      "title": "كتاب العلوم البيئية كتاب الطالب للصف الثاني عشر الفصل الأول 2 1",
+      "subjectId": "biology",
+      "grade": 12,
+      "sourcePath": "grade-12/semester-1/كتاب-العلوم-البيئية-كتاب-الطالب-للصف-الثاني-عشر-الفصل-الأول-2-1.pdf",
+      "pageCount": 184,
+      "chunkCount": 215,
+      "needsOCR": false,
+      "contentKey": "f23197c9b38121add296a99a583cfe1b29cb3b1dbfdc1fe6bc059e0612ef0e94"
+    },
+    {
+      "id": "moe-86310aafb9fca73b",
+      "title": "كتاب العلوم البيئية كتاب الطالب للصف الثاني عشر الفصل الثاني",
+      "subjectId": "biology",
+      "grade": 12,
+      "sourcePath": "grade-12/semester-2/كتاب-العلوم-البيئية-كتاب-الطالب-للصف-الثاني-عشر-الفصل-الثاني.pdf",
+      "pageCount": 184,
+      "chunkCount": 222,
+      "needsOCR": false,
+      "contentKey": "86310aafb9fca73be6b03075102447e7c0e1ee1f4f72be8474318b9eab44fbbb"
+    },
+    {
+      "id": "moe-b7440e145e5ffca0",
+      "title": "كتاب العلوم البيئية كتاب الطالب للصف الحادي عشر الفصل الأول 2",
+      "subjectId": "biology",
+      "grade": 11,
+      "sourcePath": "grade-11/semester-1/كتاب-العلوم-البيئية-كتاب-الطالب-للصف-الحادي-عشر-الفصل-الأول-2.pdf",
+      "pageCount": 162,
+      "chunkCount": 126,
+      "needsOCR": false,
+      "contentKey": "b7440e145e5ffca03236bb1287ea379a5e8f6ae3067f3e17e259dfc1fa83bacd"
+    },
+    {
+      "id": "moe-81b95a1180e1f91d",
+      "title": "كتاب العلوم البيئية كتاب الطالب للصف الحادي عشر الفصل الثاني 1",
+      "subjectId": "biology",
+      "grade": 11,
+      "sourcePath": "grade-11/semester-2/كتاب-العلوم-البيئية-كتاب-الطالب-للصف-الحادي-عشر-الفصل-الثاني-1.pdf",
+      "pageCount": 155,
+      "chunkCount": 128,
+      "needsOCR": false,
+      "contentKey": "81b95a1180e1f91db1729a9fdacbafac4ee9c62fce8fd310ec52eb4ecc2c6105"
+    },
+    {
+      "id": "moe-d2298c3e5d8f8a7b",
+      "title": "معايير النجاح مادة العلوم البيئية الصف الثاني عشر الفصل الأول",
+      "subjectId": "biology",
+      "grade": 12,
+      "sourcePath": "grade-12/semester-1/معايير-النجاح-مادة-العلوم-البيئية-الصف-الثاني-عشر-الفصل-الأول.pdf",
+      "pageCount": 29,
+      "chunkCount": 24,
+      "needsOCR": false,
+      "contentKey": "d2298c3e5d8f8a7b005ede40c9e42ed5bbc36958849e73e8e3387d4ab2de97e4"
+    },
+    {
+      "id": "moe-08a363639ef35139",
+      "title": "دليل المعلم مادة الكيمياء الصف الثاني عشر الفصل الأول",
+      "subjectId": "chemistry",
+      "grade": null,
+      "sourcePath": "teacher-guides/دليل-المعلم-مادة-الكيمياء-الصف-الثاني-عشر-الفصل-الأول.pdf",
+      "pageCount": 220,
+      "chunkCount": 155,
+      "needsOCR": false,
+      "contentKey": "08a363639ef351390981a6b13350a3d9e6b8679a8643630114bbe081510c35f2"
+    },
+    {
+      "id": "moe-f105545adae0ffb7",
+      "title": "دليل المعلم مادة الكيمياء للصف الثاني عشر الفصل الثاني PDF",
+      "subjectId": "chemistry",
+      "grade": null,
+      "sourcePath": "teacher-guides/دليل-المعلم-مادة-الكيمياء-للصف-الثاني-عشر-الفصل-الثاني-PDF.pdf",
+      "pageCount": 172,
+      "chunkCount": 120,
+      "needsOCR": false,
+      "contentKey": "f105545adae0ffb7240da76a4f567ccc35982c1b802a45e24b31d91dd36d1fbd"
+    },
+    {
+      "id": "moe-77ca4a7045b00d85",
+      "title": "دليل المعلم مادة الكيمياء للصف الحادي عشر الفصل الأول",
+      "subjectId": "chemistry",
+      "grade": null,
+      "sourcePath": "teacher-guides/دليل-المعلم-مادة-الكيمياء-للصف-الحادي-عشر-الفصل-الأول.pdf",
+      "pageCount": 223,
+      "chunkCount": 231,
+      "needsOCR": false,
+      "contentKey": "77ca4a7045b00d85d7d67f593c8b37715cbb044200311a49b951c6a15dd66350"
+    },
+    {
+      "id": "moe-3d1e4d019e65d4d4",
+      "title": "دليل المعلم مادة الكيمياء للصف الحادي عشر الفصل الثاني",
+      "subjectId": "chemistry",
+      "grade": null,
+      "sourcePath": "teacher-guides/دليل-المعلم-مادة-الكيمياء-للصف-الحادي-عشر-الفصل-الثاني.pdf",
+      "pageCount": 284,
+      "chunkCount": 294,
+      "needsOCR": false,
+      "contentKey": "3d1e4d019e65d4d4525f1a9854a63b89381c869a13dc01d45f72522eb617bd50"
+    },
+    {
+      "id": "moe-76c44db356dc0490",
+      "title": "كتاب الكيمياء كتاب التجارب والأنشطة للصف الثاني عشر الفصل الثاني",
+      "subjectId": "chemistry",
+      "grade": 12,
+      "sourcePath": "grade-12/semester-2/كتاب-الكيمياء-كتاب-التجارب-والأنشطة-للصف-الثاني-عشر-الفصل-الثاني.pdf",
+      "pageCount": 98,
+      "chunkCount": 47,
+      "needsOCR": false,
+      "contentKey": "76c44db356dc0490873022dc98749e5807bf1920589727523d964badbbad6ff4"
+    },
+    {
+      "id": "moe-6cd9f7e240d6a50a",
+      "title": "كتاب الكيمياء كتاب التجارب والأنشطة للصف الحادي عشر الفصل الأول",
+      "subjectId": "chemistry",
+      "grade": 11,
+      "sourcePath": "grade-11/semester-1/كتاب-الكيمياء-كتاب-التجارب-والأنشطة-للصف-الحادي-عشر-الفصل-الأول.pdf",
+      "pageCount": 102,
+      "chunkCount": 60,
+      "needsOCR": false,
+      "contentKey": "6cd9f7e240d6a50a3c4f216b60bdea55fe25e2d8ae93c251fcfdb30a7059a889"
+    },
+    {
+      "id": "moe-f7125d7af04c0581",
+      "title": "كتاب الكيمياء كتاب التجارب والأنشطة للصف الحادي عشر الفصل الثاني",
+      "subjectId": "chemistry",
+      "grade": 11,
+      "sourcePath": "grade-11/semester-2/كتاب-الكيمياء-كتاب-التجارب-والأنشطة-للصف-الحادي-عشر-الفصل-الثاني.pdf",
+      "pageCount": 122,
+      "chunkCount": 78,
+      "needsOCR": false,
+      "contentKey": "f7125d7af04c0581454954c75062a551dfe4470138735ba0567b9b616c1c7f90"
+    },
+    {
+      "id": "moe-7a4b504155df5e01",
+      "title": "كتاب الكيمياء كتاب الطالب للصف الثاني عشر الفصل الأول",
+      "subjectId": "chemistry",
+      "grade": 12,
+      "sourcePath": "grade-12/semester-1/كتاب-الكيمياء-كتاب-الطالب-للصف-الثاني-عشر-الفصل-الأول.pdf",
+      "pageCount": 170,
+      "chunkCount": 138,
+      "needsOCR": false,
+      "contentKey": "7a4b504155df5e01457be59c35bdcfbc0fd61fe39c38f5c2a54c359b5642e72f"
+    },
+    {
+      "id": "moe-c07dd53b63ef0185",
+      "title": "كتاب الكيمياء كتاب الطالب للصف الثاني عشر الفصل الثاني",
+      "subjectId": "chemistry",
+      "grade": 12,
+      "sourcePath": "grade-12/semester-2/كتاب-الكيمياء-كتاب-الطالب-للصف-الثاني-عشر-الفصل-الثاني.pdf",
+      "pageCount": 130,
+      "chunkCount": 84,
+      "needsOCR": false,
+      "contentKey": "c07dd53b63ef0185de6cebad94a65614fa660334383ae44df3df13dca7c19c98"
+    },
+    {
+      "id": "moe-a6ea2e81a637097e",
+      "title": "كتاب الكيمياء كتاب الطالب للصف الحادي عشر الفصل الأول",
+      "subjectId": "chemistry",
+      "grade": 11,
+      "sourcePath": "grade-11/semester-1/كتاب-الكيمياء-كتاب-الطالب-للصف-الحادي-عشر-الفصل-الأول.pdf",
+      "pageCount": 188,
+      "chunkCount": 203,
+      "needsOCR": false,
+      "contentKey": "a6ea2e81a637097e58de653ec275162ac65f6709a471c16e9742e3f49975d715"
+    },
+    {
+      "id": "moe-1e64def4cee874b6",
+      "title": "كتاب الكيمياء كتاب الطالب للصف الحادي عشر الفصل الثاني",
+      "subjectId": "chemistry",
+      "grade": 11,
+      "sourcePath": "grade-11/semester-2/كتاب-الكيمياء-كتاب-الطالب-للصف-الحادي-عشر-الفصل-الثاني.pdf",
+      "pageCount": 162,
+      "chunkCount": 118,
+      "needsOCR": false,
+      "contentKey": "1e64def4cee874b6da2a60330b9bf67341aee1aa85da80fd71b4ace24deba006"
+    },
+    {
+      "id": "moe-95637ee364f3dde1",
+      "title": "english courseb g11p1 Classical",
+      "subjectId": "english",
+      "grade": 11,
+      "sourcePath": "grade-11/semester-1/english_courseb_g11p1_Classical.pdf",
+      "pageCount": 94,
+      "chunkCount": 57,
+      "needsOCR": false,
+      "contentKey": "95637ee364f3dde13db72423861a1e4993d63832b8cd30d55f0311e8fe9a1058"
+    },
+    {
+      "id": "moe-ae9c115ebe8ecb4f",
+      "title": "english courseb g11p2 Classical",
+      "subjectId": "english",
+      "grade": 11,
+      "sourcePath": "grade-11/semester-2/english_courseb_g11p2_Classical.pdf",
+      "pageCount": 83,
+      "chunkCount": 62,
+      "needsOCR": false,
+      "contentKey": "ae9c115ebe8ecb4fc02faa9cd61ea4f4c9145d20d293c54dc727081960b5a207"
+    },
+    {
+      "id": "moe-87e3670afc44c65e",
+      "title": "english newsletter 2022 2023",
+      "subjectId": "english",
+      "grade": null,
+      "sourcePath": "curriculum-docs/english-newsletter-2022-2023.pdf",
+      "pageCount": 51,
+      "chunkCount": 18,
+      "needsOCR": false,
+      "contentKey": "87e3670afc44c65e148fc5b19efcdb89317332192bb27de06c4553d406ccadf4"
+    },
+    {
+      "id": "moe-0691e38d4911d26e",
+      "title": "دليل المعلم الإنجليزية 3 English Insights Teachers Guide للصف الثاني عشر",
+      "subjectId": "english",
+      "grade": 12,
+      "sourcePath": "teacher-guides/دليل-المعلم-الإنجليزية-3-English-Insights-Teachers-Guide-للصف-الثاني-عشر.pdf",
+      "pageCount": 250,
+      "chunkCount": 436,
+      "needsOCR": false,
+      "contentKey": "0691e38d4911d26ea8907d7f6941b3971a53394289665db951108d2ac607403a"
+    },
+    {
+      "id": "moe-97d1d0fcdd6be99d",
+      "title": "دليل المعلم الإنجليزية teachers book للصف الحادي عشر الفصل الثاني",
+      "subjectId": "english",
+      "grade": 11,
+      "sourcePath": "teacher-guides/دليل-المعلم-الإنجليزية-teachers-book-للصف-الحادي-عشر-الفصل-الثاني.pdf",
+      "pageCount": 114,
+      "chunkCount": 122,
+      "needsOCR": false,
+      "contentKey": "97d1d0fcdd6be99d59c76b2318dbc34d51db650114ea0fc3bb4e1d132ddba2cb"
+    },
+    {
+      "id": "moe-64fb91283a9af341",
+      "title": "دليل المعلم مادة اللغة الإنجليزية English Insights 2 للصف الحادي عشر",
+      "subjectId": "english",
+      "grade": 11,
+      "sourcePath": "teacher-guides/دليل-المعلم-مادة-اللغة-الإنجليزية-English-Insights-2-للصف-الحادي-عشر.pdf",
+      "pageCount": 224,
+      "chunkCount": 369,
+      "needsOCR": false,
+      "contentKey": "64fb91283a9af341753bc4ecd9b026a316eabf413235baf9550c3032c675c72c"
+    },
+    {
+      "id": "moe-932dad11b945a918",
+      "title": "دليل المعلم مادة اللغة الإنجليزية teachers book للصف الثاني عشر الفصل الأول",
+      "subjectId": "english",
+      "grade": 12,
+      "sourcePath": "teacher-guides/دليل-المعلم-مادة-اللغة-الإنجليزية-teachers-book-للصف-الثاني-عشر-الفصل-الأول.pdf",
+      "pageCount": 120,
+      "chunkCount": 123,
+      "needsOCR": false,
+      "contentKey": "932dad11b945a9182b451c89ea3eee3acbe092f7c94fd4fdfe4f8ab204cd52d2"
+    },
+    {
+      "id": "moe-8baad969ef247c8c",
+      "title": "دليل المعلم مادة اللغة الإنجليزية teachers book للصف الثاني عشر الفصل الثاني",
+      "subjectId": "english",
+      "grade": 12,
+      "sourcePath": "teacher-guides/دليل-المعلم-مادة-اللغة-الإنجليزية-teachers-book-للصف-الثاني-عشر-الفصل-الثاني.pdf",
+      "pageCount": 116,
+      "chunkCount": 124,
+      "needsOCR": false,
+      "contentKey": "8baad969ef247c8c88666ed4aae2cae8c4f11583580e3409567708b335a5fe0b"
+    },
+    {
+      "id": "moe-27c07f89a36dbf56",
+      "title": "كتاب الإنجليزية coursebook الصف الثاني عشر فصل ثاني",
+      "subjectId": "english",
+      "grade": 12,
+      "sourcePath": "grade-12/semester-2/كتاب-الإنجليزية-coursebook-الصف-الثاني-عشر-فصل-ثاني.pdf",
+      "pageCount": 79,
+      "chunkCount": 55,
+      "needsOCR": false,
+      "contentKey": "27c07f89a36dbf56f271cacd48aab664d52cc94b141f49abc2901e2e55dfc451"
+    },
+    {
+      "id": "moe-f2b71083e6e0d114",
+      "title": "كتاب الإنجليزية COURSEBOOK للصف الحادي عشر الفصل الأول",
+      "subjectId": "english",
+      "grade": 11,
+      "sourcePath": "grade-11/semester-1/كتاب-الإنجليزية-COURSEBOOK-للصف-الحادي-عشر-الفصل-الأول.pdf",
+      "pageCount": 94,
+      "chunkCount": 57,
+      "needsOCR": false,
+      "contentKey": "f2b71083e6e0d1149574e21ff91225af9eca3f2e11aafe8ba6164e32aa1bc54c"
+    },
+    {
+      "id": "moe-3ba26fd70b4f5eff",
+      "title": "كتاب الإنجليزية COURSEBOOK للصف الحادي عشر الفصل الثاني",
+      "subjectId": "english",
+      "grade": 11,
+      "sourcePath": "grade-11/semester-2/كتاب-الإنجليزية-COURSEBOOK-للصف-الحادي-عشر-الفصل-الثاني.pdf",
+      "pageCount": 83,
+      "chunkCount": 62,
+      "needsOCR": false,
+      "contentKey": "3ba26fd70b4f5eff7d1f2e147b1f2d216e6016f4f0f02d089c18b28b9b1319b2"
+    },
+    {
+      "id": "moe-0a296ed053dce8e4",
+      "title": "كتاب الإنجليزية four stories of suspense للصف الحادي عشر",
+      "subjectId": "english",
+      "grade": 11,
+      "sourcePath": "grade-11/كتاب-الإنجليزية-four-stories-of-suspense-للصف-الحادي-عشر.pdf",
+      "pageCount": 57,
+      "chunkCount": 43,
+      "needsOCR": false,
+      "contentKey": "0a296ed053dce8e43333eec28237893d4920b1e9ce1900cff5f05c5ae23bb66d"
+    },
+    {
+      "id": "moe-41bbb8461003417d",
+      "title": "كتاب الإنجليزية insighte english students book الصف الحادي عشر",
+      "subjectId": "english",
+      "grade": 11,
+      "sourcePath": "grade-11/كتاب-الإنجليزية-insighte-english-students-book-الصف-الحادي-عشر.pdf",
+      "pageCount": 138,
+      "chunkCount": 139,
+      "needsOCR": false,
+      "contentKey": "41bbb8461003417d9b37520c85c75611c73c06d1f609a30c4218cb08580fb694"
+    },
+    {
+      "id": "moe-9642cd3bc86786e7",
+      "title": "كتاب الإنجليزية insighte english workbook للصف الثاني عشر",
+      "subjectId": "english",
+      "grade": 12,
+      "sourcePath": "grade-12/كتاب-الإنجليزية-insighte-english-workbook-للصف-الثاني-عشر.pdf",
+      "pageCount": 152,
+      "chunkCount": 206,
+      "needsOCR": false,
+      "contentKey": "9642cd3bc86786e79605db459fa29c5615b12930d3f4ae9d7fd2dc30df3819c0"
+    },
+    {
+      "id": "moe-d42a3b40bb563866",
+      "title": "كتاب الإنجليزية insighte english workbook للصف للحادي عشر",
+      "subjectId": "english",
+      "grade": 11,
+      "sourcePath": "grade-11/كتاب-الإنجليزية-insighte-english-workbook-للصف-للحادي-عشر.pdf",
+      "pageCount": 142,
+      "chunkCount": 180,
+      "needsOCR": false,
+      "contentKey": "d42a3b40bb56386675cf49f2bbbc8239b5fbc2928172077cb848f92483ab1fd4"
+    },
+    {
+      "id": "moe-ef8a21664a390cb7",
+      "title": "كتاب الإنجليزية workbook للصف الثاني عشر الفصل الثاني",
+      "subjectId": "english",
+      "grade": 12,
+      "sourcePath": "grade-12/semester-2/كتاب-الإنجليزية-workbook-للصف-الثاني-عشر-الفصل-الثاني.pdf",
+      "pageCount": 99,
+      "chunkCount": 66,
+      "needsOCR": false,
+      "contentKey": "ef8a21664a390cb77296d6a55c9d5999591060b6a8c6728898cd0e75e782fe21"
+    },
+    {
+      "id": "moe-db6787e14e624528",
+      "title": "كتاب الإنجليزية كتاب الطالب Students Book للصف الثاني عشر",
+      "subjectId": "english",
+      "grade": 12,
+      "sourcePath": "grade-12/كتاب-الإنجليزية-كتاب-الطالب-Students-Book-للصف-الثاني-عشر.pdf",
+      "pageCount": 162,
+      "chunkCount": 187,
+      "needsOCR": false,
+      "contentKey": "db6787e14e6245285d70cbdeea728539e9401d3109770e1801b66dff3f90e60c"
+    },
+    {
+      "id": "moe-e4d562f84a50b3bb",
+      "title": "كتاب اللغة الإنجليزية coursebook للصف الثاني عشر الفصل الأول",
+      "subjectId": "english",
+      "grade": 12,
+      "sourcePath": "grade-12/semester-1/كتاب-اللغة-الإنجليزية-coursebook-للصف-الثاني-عشر-الفصل-الأول.pdf",
+      "pageCount": 84,
+      "chunkCount": 144,
+      "needsOCR": false,
+      "contentKey": "e4d562f84a50b3bbd485ca0c981bc839e4b9e300163b93547ab6eac84a721990"
+    },
+    {
+      "id": "moe-7be4ac22edf0bbeb",
+      "title": "cls12 artBook",
+      "subjectId": "general",
+      "grade": 12,
+      "sourcePath": "grade-12/cls12_artBook.pdf",
+      "pageCount": 146,
+      "chunkCount": 152,
+      "needsOCR": false,
+      "contentKey": "7be4ac22edf0bbeb96ab4ab56f99d69dd66452b114b69bd84cc7012f5a625f7b"
+    },
+    {
+      "id": "moe-5241be58dd60d390",
+      "title": "post basic education programme moe",
+      "subjectId": "general",
+      "grade": null,
+      "sourcePath": "curriculum-docs/post-basic-education-programme-moe.pdf",
+      "pageCount": 120,
+      "chunkCount": 54,
+      "needsOCR": false,
+      "contentKey": "5241be58dd60d390ae4903b6d4d2417d33c1b93422c5d291708edafb95aa1757"
+    },
+    {
+      "id": "moe-bd5c7ca5af8a6680",
+      "title": "درس ابو الطيب المتنبي الصف الثاني عشر",
+      "subjectId": "general",
+      "grade": 12,
+      "sourcePath": "grade-12/درس-ابو-الطيب-المتنبي-الصف-الثاني-عشر.pdf",
+      "pageCount": 18,
+      "chunkCount": 4,
+      "needsOCR": false,
+      "contentKey": "bd5c7ca5af8a668046d740aa270ee9d86f24a8074820ceed1141656a0e3a3925"
+    },
+    {
+      "id": "moe-581b5c717b896f67",
+      "title": "درس المقامة الصحارية الصف الثاني عشر الفصل الأول",
+      "subjectId": "general",
+      "grade": 12,
+      "sourcePath": "grade-12/semester-1/درس-المقامة-الصحارية-الصف-الثاني-عشر-الفصل-الأول.pdf",
+      "pageCount": 21,
+      "chunkCount": 7,
+      "needsOCR": false,
+      "contentKey": "581b5c717b896f67b5a0eaca6b4b11ffea22a130a9a169ca45d73f7c0d8dff22"
+    },
+    {
+      "id": "moe-3caca63c4a8e2273",
+      "title": "درس النص أدبي سلوتم وبقينا نحن عشاقا لابن زيدون الصف الثاني عشر",
+      "subjectId": "general",
+      "grade": 12,
+      "sourcePath": "grade-12/درس-النص-أدبي-سلوتم-وبقينا-نحن-عشاقا-لابن-زيدون-الصف-الثاني-عشر.pdf",
+      "pageCount": 13,
+      "chunkCount": 5,
+      "needsOCR": false,
+      "contentKey": "3caca63c4a8e22739a7927ff53ccfb9b881e237b11e34360e3b1f9cf99deb37e"
+    },
+    {
+      "id": "moe-3e3bd8dbc797df00",
+      "title": "درس ما أبتغي جل أن يسمى الصف الثاني عشر فصل أول",
+      "subjectId": "general",
+      "grade": 12,
+      "sourcePath": "grade-12/semester-1/درس-ما-أبتغي-جل-أن-يسمى-الصف-الثاني-عشر-فصل-أول.pdf",
+      "pageCount": 11,
+      "chunkCount": 3,
+      "needsOCR": false,
+      "contentKey": "3e3bd8dbc797df0017c66fed57dd1c80018595393acd6ad2779b39f68addff16"
+    },
+    {
+      "id": "moe-d0ce36749aa2d976",
+      "title": "دليل أخصائي التوجيه المهني للصف الثاني عشر",
+      "subjectId": "general",
+      "grade": 12,
+      "sourcePath": "grade-12/دليل-أخصائي-التوجيه-المهني-للصف-الثاني-عشر.pdf",
+      "pageCount": 76,
+      "chunkCount": 47,
+      "needsOCR": false,
+      "contentKey": "d0ce36749aa2d97652998a5d0b96b138d37350630894baaf1c5ce9744d1e1ff4"
+    },
+    {
+      "id": "moe-0212131c9f2aff5d",
+      "title": "دليل المعلم مادة الرياضة المدرسية للصف الثاني عشر",
+      "subjectId": "general",
+      "grade": 12,
+      "sourcePath": "teacher-guides/دليل-المعلم-مادة-الرياضة-المدرسية-للصف-الثاني-عشر.pdf",
+      "pageCount": 146,
+      "chunkCount": 71,
+      "needsOCR": false,
+      "contentKey": "0212131c9f2aff5deed93ef448f685ea21c018d87ab8624417c8ed47e5ffbd6e"
+    },
+    {
+      "id": "moe-154314aff4ce6031",
+      "title": "دليل المعلم مادة العالم من حولي للصف الثاني عشر",
+      "subjectId": "general",
+      "grade": 12,
+      "sourcePath": "teacher-guides/دليل-المعلم-مادة-العالم-من-حولي-للصف-الثاني-عشر.pdf",
+      "pageCount": 254,
+      "chunkCount": 261,
+      "needsOCR": false,
+      "contentKey": "154314aff4ce60310f132dc03555cb2f8f193e518c843974350e144067fac977"
+    },
+    {
+      "id": "moe-876182fb4551c63b",
+      "title": "دليل المعلم مادة العلوم والثقافة للصف الحادي عشر",
+      "subjectId": "general",
+      "grade": 11,
+      "sourcePath": "teacher-guides/دليل-المعلم-مادة-العلوم-والثقافة-للصف-الحادي-عشر.pdf",
+      "pageCount": 166,
+      "chunkCount": 106,
+      "needsOCR": false,
+      "contentKey": "876182fb4551c63bd2bf2ff586f0b935db6aabcdf65db73c9022eed4d148b85b"
+    },
+    {
+      "id": "moe-52d033cb3854c657",
+      "title": "دليل المعلم مادة الفنون التشكيلية للصف الثاني عشر",
+      "subjectId": "general",
+      "grade": 12,
+      "sourcePath": "teacher-guides/دليل-المعلم-مادة-الفنون-التشكيلية-للصف-الثاني-عشر.pdf",
+      "pageCount": 102,
+      "chunkCount": 35,
+      "needsOCR": false,
+      "contentKey": "52d033cb3854c657039e9aa4f936d23f42ea7cb41d4966f6db7470785985bc1b"
+    },
+    {
+      "id": "moe-4a83b380e853901a",
+      "title": "دليل المعلم مادة الفنون التشكيلية للصف الحادي عشر",
+      "subjectId": "general",
+      "grade": 11,
+      "sourcePath": "teacher-guides/دليل-المعلم-مادة-الفنون-التشكيلية-للصف-الحادي-عشر.pdf",
+      "pageCount": 118,
+      "chunkCount": 70,
+      "needsOCR": false,
+      "contentKey": "4a83b380e853901af1e2067828760e4ed85bed45ae12f1e4158a0ec53f9626d2"
+    },
+    {
+      "id": "moe-b6e281f2d9e19b53",
+      "title": "دليل المعلم مادة هذا وطني للصف الحادي عشر",
+      "subjectId": "general",
+      "grade": 11,
+      "sourcePath": "teacher-guides/دليل-المعلم-مادة-هذا-وطني-للصف-الحادي-عشر.pdf",
+      "pageCount": 146,
+      "chunkCount": 80,
+      "needsOCR": false,
+      "contentKey": "b6e281f2d9e19b534a0b56bbe2685be897341cf27f3c8e3729f4c1551d819989"
+    },
+    {
+      "id": "moe-8b7ac43a6d7baccd",
+      "title": "دليل المعلم هذا وطني مادة الدراسات الاجتماعية للصف الثاني عشر",
+      "subjectId": "general",
+      "grade": 12,
+      "sourcePath": "teacher-guides/دليل-المعلم-هذا-وطني-مادة-الدراسات-الاجتماعية-للصف-الثاني-عشر.pdf",
+      "pageCount": 130,
+      "chunkCount": 69,
+      "needsOCR": false,
+      "contentKey": "8b7ac43a6d7baccd73e3f126bbe63b386576498ca5ea38a93a07b79267ffa3c8"
+    },
+    {
+      "id": "moe-997a541e8ad3fa44",
+      "title": "دليل معلم العلوم والبيئة الصف الحادي عشر الفصل الأول",
+      "subjectId": "general",
+      "grade": 11,
+      "sourcePath": "teacher-guides/دليل-معلم-العلوم-والبيئة-الصف-الحادي-عشر-الفصل-الأول.pdf",
+      "pageCount": 152,
+      "chunkCount": 105,
+      "needsOCR": false,
+      "contentKey": "997a541e8ad3fa444d36bfd282b356d763443068fe74655660c7664cb9f1ef59"
+    },
+    {
+      "id": "moe-2a1934b40107a0c0",
+      "title": "دليل معلم مادة العلوم والبيئة الصف الحادي عشر الفصل الثاني",
+      "subjectId": "general",
+      "grade": 11,
+      "sourcePath": "teacher-guides/دليل-معلم-مادة-العلوم-والبيئة-الصف-الحادي-عشر-الفصل-الثاني.pdf",
+      "pageCount": 213,
+      "chunkCount": 157,
+      "needsOCR": false,
+      "contentKey": "2a1934b40107a0c01bf18c795891590d9a78024fdad4a2c264a03b7647e016c9"
+    },
+    {
+      "id": "moe-d6085e8e195e0809",
+      "title": "شرح وحل أسئلة قصيدة أنشودة المطر",
+      "subjectId": "general",
+      "grade": 12,
+      "sourcePath": "grade-12/semester-2/شرح-وحل-أسئلة-قصيدة-أنشودة-المطر.pdf",
+      "pageCount": 16,
+      "chunkCount": 7,
+      "needsOCR": false,
+      "contentKey": "d6085e8e195e0809c93766a7eae3462783332cc341eebc109b540fcddbce39b1"
+    },
+    {
+      "id": "moe-6f0c431c96800e73",
+      "title": "كتاب الدراسات الاجتماعية هذا وطني للصف الحادي عشر",
+      "subjectId": "general",
+      "grade": 11,
+      "sourcePath": "grade-11/كتاب-الدراسات-الاجتماعية-هذا-وطني-للصف-الحادي-عشر.pdf",
+      "pageCount": 148,
+      "chunkCount": 14,
+      "needsOCR": false,
+      "contentKey": "6f0c431c96800e73634f7227edc8a73a9a97ed99e7b322b4adaabf3776a2bcbf"
+    },
+    {
+      "id": "moe-9e8c7a1d5a425dc5",
+      "title": "كتاب العالم من حولي للصف الثاني عشر",
+      "subjectId": "general",
+      "grade": 12,
+      "sourcePath": "grade-12/كتاب-العالم-من-حولي-للصف-الثاني-عشر.pdf",
+      "pageCount": 254,
+      "chunkCount": 294,
+      "needsOCR": false,
+      "contentKey": "9e8c7a1d5a425dc545ab730318c80f22d03211a7d15239b1f763517934023e03"
+    },
+    {
+      "id": "moe-87976a214e9ba997",
+      "title": "كتاب الفنون التشكيلية للصف الحادي عشر",
+      "subjectId": "general",
+      "grade": 11,
+      "sourcePath": "grade-11/كتاب-الفنون-التشكيلية-للصف-الحادي-عشر.pdf",
+      "pageCount": 92,
+      "chunkCount": 4,
+      "needsOCR": false,
+      "contentKey": "87976a214e9ba99762eb2579a4fe45605619a7e39a28f58b89d05f71fe726101"
+    },
+    {
+      "id": "moe-160d02e9c0a1dc1f",
+      "title": "كتاب تقنية المعلومات للصف الثاني عشر الفصل الأول 2",
+      "subjectId": "general",
+      "grade": 12,
+      "sourcePath": "grade-12/semester-1/كتاب-تقنية-المعلومات-للصف-الثاني-عشر-الفصل-الأول-2.pdf",
+      "pageCount": 170,
+      "chunkCount": 53,
+      "needsOCR": false,
+      "contentKey": "160d02e9c0a1dc1fbf3e553d9f3970936fe2bd18a446f64ed459c99ab74a2a8b"
+    },
+    {
+      "id": "moe-5a69df87cdd1062f",
+      "title": "كتاب تقنية المعلومات للصف الثاني عشر الفصل الثاني",
+      "subjectId": "general",
+      "grade": 12,
+      "sourcePath": "grade-12/semester-2/كتاب-تقنية-المعلومات-للصف-الثاني-عشر-الفصل-الثاني.pdf",
+      "pageCount": 206,
+      "chunkCount": 68,
+      "needsOCR": false,
+      "contentKey": "5a69df87cdd1062f3e20c1bc808068296c015b9128f7a2d177fda728f57a2874"
+    },
+    {
+      "id": "moe-9b2f4206ee9bebc5",
+      "title": "كتاب تقنية المعلومات للصف الحادي عشر الفصل الأول",
+      "subjectId": "general",
+      "grade": 11,
+      "sourcePath": "grade-11/semester-1/كتاب-تقنية-المعلومات-للصف-الحادي-عشر-الفصل-الأول.pdf",
+      "pageCount": 210,
+      "chunkCount": 65,
+      "needsOCR": false,
+      "contentKey": "9b2f4206ee9bebc524c23abf7b0ab7d249d2b706e5ae2c1baf9add8299acb687"
+    },
+    {
+      "id": "moe-8aa212896db6e7c9",
+      "title": "كتاب تقنية المعلومات للصف الحادي عشر الفصل الثاني",
+      "subjectId": "general",
+      "grade": 11,
+      "sourcePath": "grade-11/semester-2/كتاب-تقنية-المعلومات-للصف-الحادي-عشر-الفصل-الثاني.pdf",
+      "pageCount": 223,
+      "chunkCount": 72,
+      "needsOCR": false,
+      "contentKey": "8aa212896db6e7c94273943749c2651102bdc8ca3fa4500d9cfab3f7aa5155c2"
+    },
+    {
+      "id": "moe-e07fbf0d7e63cc81",
+      "title": "كتاب هذا وطني للصف الثاني عشر",
+      "subjectId": "general",
+      "grade": 12,
+      "sourcePath": "grade-12/كتاب-هذا-وطني-للصف-الثاني-عشر.pdf",
+      "pageCount": 120,
+      "chunkCount": 50,
+      "needsOCR": false,
+      "contentKey": "e07fbf0d7e63cc81a241e6f21241a8815e5af53bcfae9201b531333091da9b03"
+    },
+    {
+      "id": "moe-3bd8abe5a6afd8e6",
+      "title": "مدخل إلى علم المساحة للصف الثاني عشر",
+      "subjectId": "general",
+      "grade": 12,
+      "sourcePath": "grade-12/مدخل-إلى-علم-المساحة-للصف-الثاني-عشر.pdf",
+      "pageCount": 108,
+      "chunkCount": 12,
+      "needsOCR": false,
+      "contentKey": "3bd8abe5a6afd8e6efe617f5243a663795aa5c2fde57559577ddd1c936d7fecb"
+    },
+    {
+      "id": "moe-2aa187d14f79899b",
+      "title": "ملخص درس البروتينات للصف الحادي عشر",
+      "subjectId": "general",
+      "grade": 11,
+      "sourcePath": "summaries-solutions/grade-11/ملخص-درس-البروتينات-للصف-الحادي-عشر.pdf",
+      "pageCount": 34,
+      "chunkCount": 2,
+      "needsOCR": false,
+      "contentKey": "2aa187d14f79899b71187e032c87e4f7b19d55e1dda0b180cc2dea6bd2eea2f4"
+    },
+    {
+      "id": "moe-26194f8bf0c1acb5",
+      "title": "ملخص درس عمان الموقع ومظاهر السطح",
+      "subjectId": "general",
+      "grade": 11,
+      "sourcePath": "summaries-solutions/grade-11/ملخص-درس-عمان-الموقع-ومظاهر-السطح.pdf",
+      "pageCount": 49,
+      "chunkCount": 4,
+      "needsOCR": false,
+      "contentKey": "26194f8bf0c1acb5a3e36547016434359ac3f32341a524516c4567ac9d38e443"
+    },
+    {
+      "id": "moe-4161e932f438b5d9",
+      "title": "دليل المعلم مادة التربية الإسلامية ديني قيمي للصف السادس الفصل الثاني",
+      "subjectId": "islamic",
+      "grade": null,
+      "sourcePath": "teacher-guides/دليل-المعلم-مادة-التربية-الإسلامية-ديني-قيمي-للصف-السادس-الفصل-الثاني.pdf",
+      "pageCount": 172,
+      "chunkCount": 123,
+      "needsOCR": false,
+      "contentKey": "4161e932f438b5d95021dc2db262e0b0434744a5b88bd5f68e543e85e0b30746"
+    },
+    {
+      "id": "moe-cd6b0ca3afce2f8f",
+      "title": "دليل المعلم مادة التربية الإسلامية للصف الثاني عشر الفصل الأول",
+      "subjectId": "islamic",
+      "grade": 12,
+      "sourcePath": "teacher-guides/دليل-المعلم-مادة-التربية-الإسلامية-للصف-الثاني-عشر-الفصل-الأول.pdf",
+      "pageCount": 166,
+      "chunkCount": 158,
+      "needsOCR": false,
+      "contentKey": "cd6b0ca3afce2f8f10704f96bba58ab8cbf0acb57d1d85be76c8aac5a83c45e8"
+    },
+    {
+      "id": "moe-39c452e819cf0377",
+      "title": "دليل المعلم مادة التربية الإسلامية للصف الحادي عشر الفصل الأول",
+      "subjectId": "islamic",
+      "grade": 11,
+      "sourcePath": "teacher-guides/دليل-المعلم-مادة-التربية-الإسلامية-للصف-الحادي-عشر-الفصل-الأول.pdf",
+      "pageCount": 174,
+      "chunkCount": 103,
+      "needsOCR": false,
+      "contentKey": "39c452e819cf03772080334c084febe33c946ec4e5303ed8b8d303d00b067e33"
+    },
+    {
+      "id": "moe-566d2b6ae725c9d8",
+      "title": "دليل المعلم مادة التربية الإسلامية للصف الحادي عشر الفصل الثاني",
+      "subjectId": "islamic",
+      "grade": 11,
+      "sourcePath": "teacher-guides/دليل-المعلم-مادة-التربية-الإسلامية-للصف-الحادي-عشر-الفصل-الثاني.pdf",
+      "pageCount": 174,
+      "chunkCount": 112,
+      "needsOCR": false,
+      "contentKey": "566d2b6ae725c9d8ce13e2d6672e76699ad295ff9f44f402999a87341d270b14"
+    },
+    {
+      "id": "moe-6b724b92f99c016d",
+      "title": "دليل المعلم مادة الحضارة الإسلامية للصف الحادي عشر",
+      "subjectId": "islamic",
+      "grade": 11,
+      "sourcePath": "teacher-guides/دليل-المعلم-مادة-الحضارة-الإسلامية-للصف-الحادي-عشر.pdf",
+      "pageCount": 86,
+      "chunkCount": 7,
+      "needsOCR": false,
+      "contentKey": "6b724b92f99c016d8b7238e1ace2ae08726d5856aaf2b34eaf4f4a3154025584"
+    },
+    {
+      "id": "moe-02a5b4b214d4a946",
+      "title": "كتاب التربية الإسلامية للصف الثاني عشر الفصل الأول",
+      "subjectId": "islamic",
+      "grade": 12,
+      "sourcePath": "grade-12/semester-1/كتاب-التربية-الإسلامية-للصف-الثاني-عشر-الفصل-الأول.pdf",
+      "pageCount": 154,
+      "chunkCount": 143,
+      "needsOCR": false,
+      "contentKey": "02a5b4b214d4a946e09a9467e5b4b69326d0b20edc297ae88e0c6ea0d3c5d0f2"
+    },
+    {
+      "id": "moe-66261f78c6c70ab0",
+      "title": "كتاب التربية الإسلامية للصف الثاني عشر الفصل الثاني",
+      "subjectId": "islamic",
+      "grade": 12,
+      "sourcePath": "grade-12/semester-2/كتاب-التربية-الإسلامية-للصف-الثاني-عشر-الفصل-الثاني.pdf",
+      "pageCount": 154,
+      "chunkCount": 143,
+      "needsOCR": false,
+      "contentKey": "66261f78c6c70ab00be78e0d6b837b2da18e496bebc12003436889e4bd386544"
+    },
+    {
+      "id": "moe-66c94ed794063b7c",
+      "title": "كتاب التربية الإسلامية للصف الحادي عشر الفصل الأول 2",
+      "subjectId": "islamic",
+      "grade": 11,
+      "sourcePath": "grade-11/semester-1/كتاب-التربية-الإسلامية-للصف-الحادي-عشر-الفصل-الأول-2.pdf",
+      "pageCount": 184,
+      "chunkCount": 103,
+      "needsOCR": false,
+      "contentKey": "66c94ed794063b7c70493b2ca1a6009a490d3f726988a61fb8d32a3166fe5974"
+    },
+    {
+      "id": "moe-8c60444c82fcfd62",
+      "title": "كتاب التربية الإسلامية للصف الحادي عشر الفصل الثاني",
+      "subjectId": "islamic",
+      "grade": 11,
+      "sourcePath": "grade-11/semester-2/كتاب-التربية-الإسلامية-للصف-الحادي-عشر-الفصل-الثاني.pdf",
+      "pageCount": 188,
+      "chunkCount": 105,
+      "needsOCR": false,
+      "contentKey": "8c60444c82fcfd621756611427ef8554fdc372c6bc03347852ce51059864597b"
+    },
+    {
+      "id": "moe-b8ebedf894110601",
+      "title": "كتاب الحضارة الإسلامية للصف الحادي عشر",
+      "subjectId": "islamic",
+      "grade": 11,
+      "sourcePath": "grade-11/كتاب-الحضارة-الإسلامية-للصف-الحادي-عشر.pdf",
+      "pageCount": 168,
+      "chunkCount": 94,
+      "needsOCR": false,
+      "contentKey": "b8ebedf894110601c518c25acce340b3c816acc96947269cb28d2994e89d4388"
+    },
+    {
+      "id": "moe-7c95d7926c667f51",
+      "title": "math newsletter approved series",
+      "subjectId": "math",
+      "grade": null,
+      "sourcePath": "curriculum-docs/math-newsletter-approved-series.pdf",
+      "pageCount": 84,
+      "chunkCount": 60,
+      "needsOCR": false,
+      "contentKey": "7c95d7926c667f5115bc948ac265c5bb2530403393b5f5f8e6193bf1a3642b0b"
+    },
+    {
+      "id": "moe-fb8131d64fcee70b",
+      "title": "حل الوحدة الثامنة الرياضيات المتقدمة الصف الثاني عشر",
+      "subjectId": "math",
+      "grade": 12,
+      "sourcePath": "grade-12/حل-الوحدة-الثامنة-الرياضيات-المتقدمة-الصف-الثاني-عشر.pdf",
+      "pageCount": 24,
+      "chunkCount": 13,
+      "needsOCR": false,
+      "contentKey": "fb8131d64fcee70bf95b828184d23fdcebf2b766cc174b4c7aeab80b1e7338fc"
+    },
+    {
+      "id": "moe-5350d7eaa67a9894",
+      "title": "دليل المعلم مادة الرياضيات الأساسية للصف الثاني عشر الفصل الثاني",
+      "subjectId": "math",
+      "grade": 12,
+      "sourcePath": "teacher-guides/دليل-المعلم-مادة-الرياضيات-الأساسية-للصف-الثاني-عشر-الفصل-الثاني.pdf",
+      "pageCount": 108,
+      "chunkCount": 53,
+      "needsOCR": false,
+      "contentKey": "5350d7eaa67a98943217e4707130e6a1ff46c7fe5a3f9274a3a2d6dee26eafea"
+    },
+    {
+      "id": "moe-4647224242fcf384",
+      "title": "دليل المعلم مادة الرياضيات الأساسية للصف الحادي عشر الفصل الأول",
+      "subjectId": "math",
+      "grade": 11,
+      "sourcePath": "teacher-guides/دليل-المعلم-مادة-الرياضيات-الأساسية-للصف-الحادي-عشر-الفصل-الأول.pdf",
+      "pageCount": 194,
+      "chunkCount": 100,
+      "needsOCR": false,
+      "contentKey": "4647224242fcf3849ef20698b88f04c57826805b820d73eb2fdd0e6775defe40"
+    },
+    {
+      "id": "moe-8b21236eba962a94",
+      "title": "دليل المعلم مادة الرياضيات الأساسية للصف الحادي عشر الفصل الثاني",
+      "subjectId": "math",
+      "grade": 11,
+      "sourcePath": "teacher-guides/دليل-المعلم-مادة-الرياضيات-الأساسية-للصف-الحادي-عشر-الفصل-الثاني.pdf",
+      "pageCount": 168,
+      "chunkCount": 71,
+      "needsOCR": false,
+      "contentKey": "8b21236eba962a94e9e34e6af665320cab9977c952583213b1ec2f4d160dc3d1"
+    },
+    {
+      "id": "moe-53f9833f4b0e82be",
+      "title": "دليل المعلم مادة الرياضيات المتقدمة الصف الثاني عشر الفصل الثاني",
+      "subjectId": "math",
+      "grade": 12,
+      "sourcePath": "teacher-guides/دليل-المعلم-مادة-الرياضيات-المتقدمة-الصف-الثاني-عشر-الفصل-الثاني.pdf",
+      "pageCount": 238,
+      "chunkCount": 126,
+      "needsOCR": false,
+      "contentKey": "53f9833f4b0e82be3ead1c419d3ebc3fd0aa61f5f68c67235f0632d771f982e0"
+    },
+    {
+      "id": "moe-9377996b4c3b2075",
+      "title": "دليل المعلم مادة الرياضيات المتقدمة الصف الحادي عشر الفصل الأول",
+      "subjectId": "math",
+      "grade": 11,
+      "sourcePath": "teacher-guides/دليل-المعلم-مادة-الرياضيات-المتقدمة-الصف-الحادي-عشر-الفصل-الأول.pdf",
+      "pageCount": 308,
+      "chunkCount": 170,
+      "needsOCR": false,
+      "contentKey": "9377996b4c3b20751a287a100ad53588fa5222ac5253780febb6055592a68051"
+    },
+    {
+      "id": "moe-86547950198111c4",
+      "title": "دليل المعلم مادة الرياضيات المتقدمة للصف الحادي عشر الفصل الثاني",
+      "subjectId": "math",
+      "grade": 11,
+      "sourcePath": "teacher-guides/دليل-المعلم-مادة-الرياضيات-المتقدمة-للصف-الحادي-عشر-الفصل-الثاني.pdf",
+      "pageCount": 36,
+      "chunkCount": 13,
+      "needsOCR": false,
+      "contentKey": "86547950198111c4b8adc6c1c2460e941ed7a7be54a9d08d3ddefefe113ee8c3"
+    },
+    {
+      "id": "moe-96052ac4daf724d8",
+      "title": "كتاب الرياضيات الأساسية كتاب الطالب للصف الثاني عشر الفصل الأول 2",
+      "subjectId": "math",
+      "grade": 12,
+      "sourcePath": "grade-12/semester-1/كتاب-الرياضيات-الأساسية-كتاب-الطالب-للصف-الثاني-عشر-الفصل-الأول-2.pdf",
+      "pageCount": 94,
+      "chunkCount": 249,
+      "needsOCR": false,
+      "contentKey": "96052ac4daf724d8f4a1808434756c0ea38edb5a68aea8dd304a3660cca72f1c"
+    },
+    {
+      "id": "moe-d812b32aab45ffea",
+      "title": "كتاب الرياضيات الأساسية كتاب الطالب للصف الثاني عشر الفصل الدراسي الثاني",
+      "subjectId": "math",
+      "grade": 12,
+      "sourcePath": "grade-12/semester-2/كتاب-الرياضيات-الأساسية-كتاب-الطالب-للصف-الثاني-عشر-الفصل-الدراسي-الثاني.pdf",
+      "pageCount": 110,
+      "chunkCount": 57,
+      "needsOCR": false,
+      "contentKey": "d812b32aab45ffea3973bb4a4f7ff0dfb560835da9a12b8635f85fda53657afb"
+    },
+    {
+      "id": "moe-c624373b9015087f",
+      "title": "كتاب الرياضيات الأساسية كتاب الطالب للصف الحادي عشر الفصل الأول 2",
+      "subjectId": "math",
+      "grade": 11,
+      "sourcePath": "grade-11/semester-1/كتاب-الرياضيات-الأساسية-كتاب-الطالب-للصف-الحادي-عشر-الفصل-الأول-2.pdf",
+      "pageCount": 196,
+      "chunkCount": 149,
+      "needsOCR": false,
+      "contentKey": "c624373b9015087fab140c3ab0147e7069ffb0b80f56c2133f6844fdf6307ff5"
+    },
+    {
+      "id": "moe-b40d4b59487886ec",
+      "title": "كتاب الرياضيات الأساسية كتاب الطالب للصف الحادي عشر الفصل الثاني",
+      "subjectId": "math",
+      "grade": 11,
+      "sourcePath": "grade-11/semester-2/كتاب-الرياضيات-الأساسية-كتاب-الطالب-للصف-الحادي-عشر-الفصل-الثاني.pdf",
+      "pageCount": 118,
+      "chunkCount": 4,
+      "needsOCR": false,
+      "contentKey": "b40d4b59487886ecf8fd040418b3cf0fd557764acba86505acbb557a8072aeec"
+    },
+    {
+      "id": "moe-3c827d63ce41d356",
+      "title": "كتاب الرياضيات الأساسية كتاب النشاط للصف الثاني عشر الفصل الثاني",
+      "subjectId": "math",
+      "grade": 12,
+      "sourcePath": "grade-12/semester-2/كتاب-الرياضيات-الأساسية-كتاب-النشاط-للصف-الثاني-عشر-الفصل-الثاني.pdf",
+      "pageCount": 64,
+      "chunkCount": 20,
+      "needsOCR": false,
+      "contentKey": "3c827d63ce41d356e752a0616cb57586a85ae5ef7756a0f0b2a99a50d35dc384"
+    },
+    {
+      "id": "moe-0e8ea58e89c3c5af",
+      "title": "كتاب الرياضيات الأساسية كتاب النشاط للصف الثاني عشر الفصل الدراسي الأول",
+      "subjectId": "math",
+      "grade": 12,
+      "sourcePath": "grade-12/semester-1/كتاب-الرياضيات-الأساسية-كتاب-النشاط-للصف-الثاني-عشر-الفصل-الدراسي-الأول.pdf",
+      "pageCount": 60,
+      "chunkCount": 28,
+      "needsOCR": false,
+      "contentKey": "0e8ea58e89c3c5afa4ac84281d771db405a5b5ffbeea5fb2f2ba8ac376df3433"
+    },
+    {
+      "id": "moe-138fc48ca5c55479",
+      "title": "كتاب الرياضيات الأساسية كتاب النشاط للصف الحادي عشر الفصل الأول 2",
+      "subjectId": "math",
+      "grade": 11,
+      "sourcePath": "grade-11/semester-1/كتاب-الرياضيات-الأساسية-كتاب-النشاط-للصف-الحادي-عشر-الفصل-الأول-2.pdf",
+      "pageCount": 102,
+      "chunkCount": 49,
+      "needsOCR": false,
+      "contentKey": "138fc48ca5c554799cfe380d19b3ee0f96eb694c283bf8406b217fb6e7dea268"
+    },
+    {
+      "id": "moe-24e6120be24f94df",
+      "title": "كتاب الرياضيات المتقدمة كتاب الطالب للصف الثاني عشر الفصل الأول",
+      "subjectId": "math",
+      "grade": 12,
+      "sourcePath": "grade-12/semester-1/كتاب-الرياضيات-المتقدمة-كتاب-الطالب-للصف-الثاني-عشر-الفصل-الأول.pdf",
+      "pageCount": 186,
+      "chunkCount": 95,
+      "needsOCR": false,
+      "contentKey": "24e6120be24f94df378db929eda393847e185473649693cd4daa436479d97a08"
+    },
+    {
+      "id": "moe-5c657e15fc8f83c9",
+      "title": "كتاب الرياضيات المتقدمة كتاب الطالب للصف الثاني عشر الفصل الثاني",
+      "subjectId": "math",
+      "grade": 12,
+      "sourcePath": "grade-12/semester-2/كتاب-الرياضيات-المتقدمة-كتاب-الطالب-للصف-الثاني-عشر-الفصل-الثاني.pdf",
+      "pageCount": 186,
+      "chunkCount": 151,
+      "needsOCR": false,
+      "contentKey": "5c657e15fc8f83c9ee17ee5a0b26e4397f715671df174a1825a501f9176f16e3"
+    },
+    {
+      "id": "moe-5f0f97894c7a52dd",
+      "title": "كتاب الرياضيات المتقدمة كتاب الطالب للصف الحادي عشر الفصل الأول 2",
+      "subjectId": "math",
+      "grade": 11,
+      "sourcePath": "grade-11/semester-1/كتاب-الرياضيات-المتقدمة-كتاب-الطالب-للصف-الحادي-عشر-الفصل-الأول-2.pdf",
+      "pageCount": 204,
+      "chunkCount": 180,
+      "needsOCR": false,
+      "contentKey": "5f0f97894c7a52ddb20c7f622aa86d4478564396fbd68f542ff5efa005611ec4"
+    },
+    {
+      "id": "moe-229a26897ff380b5",
+      "title": "كتاب الرياضيات المتقدمة كتاب الطالب للصف الحادي عشر الفصل الثاني",
+      "subjectId": "math",
+      "grade": 11,
+      "sourcePath": "grade-11/semester-2/كتاب-الرياضيات-المتقدمة-كتاب-الطالب-للصف-الحادي-عشر-الفصل-الثاني.pdf",
+      "pageCount": 174,
+      "chunkCount": 133,
+      "needsOCR": false,
+      "contentKey": "229a26897ff380b5aca2eda5c2a5bab4691bebd992d0fc4225742a6a1fed76af"
+    },
+    {
+      "id": "moe-3ecc6aa63a07cf11",
+      "title": "كتاب الرياضيات المتقدمة كتاب النشاط للصف الثاني عشر الفصل الأول",
+      "subjectId": "math",
+      "grade": 12,
+      "sourcePath": "grade-12/semester-1/كتاب-الرياضيات-المتقدمة-كتاب-النشاط-للصف-الثاني-عشر-الفصل-الأول.pdf",
+      "pageCount": 107,
+      "chunkCount": 48,
+      "needsOCR": false,
+      "contentKey": "3ecc6aa63a07cf11558cd7362b1dde55636b2576b9394595dc14f252a9580912"
+    },
+    {
+      "id": "moe-71a4e3db5418fc08",
+      "title": "كتاب الرياضيات المتقدمة كتاب النشاط للصف الحادي عشر الفصل الثاني",
+      "subjectId": "math",
+      "grade": 11,
+      "sourcePath": "grade-11/semester-2/كتاب-الرياضيات-المتقدمة-كتاب-النشاط-للصف-الحادي-عشر-الفصل-الثاني.pdf",
+      "pageCount": 122,
+      "chunkCount": 80,
+      "needsOCR": false,
+      "contentKey": "71a4e3db5418fc08ff19d5360801cad7675c62f925a8bd424bdb75fdc588016f"
+    },
+    {
+      "id": "moe-1d2fb717bc7a00a0",
+      "title": "دليل المعلم مادة الفيزياء الصف الثاني عشر الفصل الأول",
+      "subjectId": "physics",
+      "grade": 12,
+      "sourcePath": "teacher-guides/دليل-المعلم-مادة-الفيزياء-الصف-الثاني-عشر-الفصل-الأول.pdf",
+      "pageCount": 182,
+      "chunkCount": 138,
+      "needsOCR": false,
+      "contentKey": "1d2fb717bc7a00a0cf2ebe01a4f99f53ff6c3738639ac05defc2459d59d6b104"
+    },
+    {
+      "id": "moe-fb8c6c867ef090e1",
+      "title": "دليل المعلم مادة الفيزياء الصف الثاني عشر الفصل الثاني",
+      "subjectId": "physics",
+      "grade": 12,
+      "sourcePath": "teacher-guides/دليل-المعلم-مادة-الفيزياء-الصف-الثاني-عشر-الفصل-الثاني.pdf",
+      "pageCount": 148,
+      "chunkCount": 113,
+      "needsOCR": false,
+      "contentKey": "fb8c6c867ef090e1f76eda4ad043f1c33d58dc5d176de888a2e9da359a8452b5"
+    },
+    {
+      "id": "moe-ef5f90c8b84c25ad",
+      "title": "دليل المعلم مادة الفيزياء للصف الحادي عشر الفصل الأول",
+      "subjectId": "physics",
+      "grade": 11,
+      "sourcePath": "teacher-guides/دليل-المعلم-مادة-الفيزياء-للصف-الحادي-عشر-الفصل-الأول.pdf",
+      "pageCount": 145,
+      "chunkCount": 101,
+      "needsOCR": false,
+      "contentKey": "ef5f90c8b84c25adb2436e024bf962f0aea65108edc7a603b0945d9c52b06992"
+    },
+    {
+      "id": "moe-e68118fc70b3c160",
+      "title": "دليل المعلم مادة الفيزياء للصف الحادي عشر الفصل الثاني",
+      "subjectId": "physics",
+      "grade": 11,
+      "sourcePath": "teacher-guides/دليل-المعلم-مادة-الفيزياء-للصف-الحادي-عشر-الفصل-الثاني.pdf",
+      "pageCount": 148,
+      "chunkCount": 101,
+      "needsOCR": false,
+      "contentKey": "e68118fc70b3c1605db8c268c917cbff96403f971f5a79f5fec08dffd01e5989"
+    },
+    {
+      "id": "moe-c59d53fba274428d",
+      "title": "كتاب الفيزياء التجارب العلمية والأنشطة الصف الثاني عشر الفصل الثاني",
+      "subjectId": "physics",
+      "grade": 12,
+      "sourcePath": "grade-12/semester-2/كتاب-الفيزياء-التجارب-العلمية-والأنشطة-الصف-الثاني-عشر-الفصل-الثاني.pdf",
+      "pageCount": 126,
+      "chunkCount": 134,
+      "needsOCR": false,
+      "contentKey": "c59d53fba274428d5dae4f1c25002a90fb7ec739e87e60363f1fd2f5e073ed1e"
+    },
+    {
+      "id": "moe-8052ebbd69c8b61a",
+      "title": "كتاب الفيزياء التجارب والأنشطة للصف الحادي عشر الفصل الأول",
+      "subjectId": "physics",
+      "grade": 11,
+      "sourcePath": "grade-11/semester-1/كتاب-الفيزياء-التجارب-والأنشطة-للصف-الحادي-عشر-الفصل-الأول.pdf",
+      "pageCount": 116,
+      "chunkCount": 86,
+      "needsOCR": false,
+      "contentKey": "8052ebbd69c8b61a5f84e328c00519aa2ff325d460c0af4d10b0246d2b7d942b"
+    },
+    {
+      "id": "moe-0e2b9ee6dc3adcda",
+      "title": "كتاب الفيزياء كتاب التجارب والأنشطة للصف الحادي عشر الفصل الثاني",
+      "subjectId": "physics",
+      "grade": 11,
+      "sourcePath": "grade-11/semester-2/كتاب-الفيزياء-كتاب-التجارب-والأنشطة-للصف-الحادي-عشر-الفصل-الثاني.pdf",
+      "pageCount": 122,
+      "chunkCount": 65,
+      "needsOCR": false,
+      "contentKey": "0e2b9ee6dc3adcda4213f8e9b500dc1f6bd53e7ffc0a416e934f02a3dff2ce13"
+    },
+    {
+      "id": "moe-dbc91cc4f0981ee0",
+      "title": "كتاب الفيزياء كتاب الطالب للصف الثاني عشر الفصل الأول",
+      "subjectId": "physics",
+      "grade": 12,
+      "sourcePath": "grade-12/semester-1/كتاب-الفيزياء-كتاب-الطالب-للصف-الثاني-عشر-الفصل-الأول.pdf",
+      "pageCount": 188,
+      "chunkCount": 124,
+      "needsOCR": false,
+      "contentKey": "dbc91cc4f0981ee03f9a9bacd6d4c5e97589fde4fe3a1ebb3c171b9e595a3ce7"
+    },
+    {
+      "id": "moe-885ff8396bc875cc",
+      "title": "كتاب الفيزياء كتاب الطالب للصف الثاني عشر الفصل الثاني",
+      "subjectId": "physics",
+      "grade": 12,
+      "sourcePath": "grade-12/semester-2/كتاب-الفيزياء-كتاب-الطالب-للصف-الثاني-عشر-الفصل-الثاني.pdf",
+      "pageCount": 148,
+      "chunkCount": 119,
+      "needsOCR": false,
+      "contentKey": "885ff8396bc875cc2f7c34f53f5c976f78e3428fbe56c7f0e9a574799289bce4"
+    },
+    {
+      "id": "moe-aae949a43a5def44",
+      "title": "كتاب الفيزياء كتاب الطالب للصف الحادي عشر الفصل الأول",
+      "subjectId": "physics",
+      "grade": 11,
+      "sourcePath": "grade-11/semester-1/كتاب-الفيزياء-كتاب-الطالب-للصف-الحادي-عشر-الفصل-الأول.pdf",
+      "pageCount": 128,
+      "chunkCount": 84,
+      "needsOCR": false,
+      "contentKey": "aae949a43a5def440588888194ddc2390c50bd94117ed5fa3a58b5025ada7b7f"
+    },
+    {
+      "id": "moe-1c771135a0f1d28c",
+      "title": "كتاب الفيزياء كتاب الطالب للصف الحادي عشر الفصل الثاني",
+      "subjectId": "physics",
+      "grade": 11,
+      "sourcePath": "grade-11/semester-2/كتاب-الفيزياء-كتاب-الطالب-للصف-الحادي-عشر-الفصل-الثاني.pdf",
+      "pageCount": 136,
+      "chunkCount": 89,
+      "needsOCR": false,
+      "contentKey": "1c771135a0f1d28c6a55f7f3c91546577b87e2b9440dbfe4cb6fd41e27459698"
+    },
+    {
+      "id": "moe-c8bc4a6c2c2c7a4e",
+      "title": "cls12 Social It",
+      "subjectId": "social",
+      "grade": 12,
+      "sourcePath": "grade-12/cls12_Social_It.pdf",
+      "pageCount": 170,
+      "chunkCount": 133,
+      "needsOCR": false,
+      "contentKey": "c8bc4a6c2c2c7a4ee4f10bd9be652feb1447e7acc18d48d3de8fb033761de2f5"
+    },
+    {
+      "id": "moe-795b3ff5122c2529",
+      "title": "دليل المعلم مادة الجغرافيا الاقتصادية للصف الحادي عشر",
+      "subjectId": "social",
+      "grade": 11,
+      "sourcePath": "teacher-guides/دليل-المعلم-مادة-الجغرافيا-الاقتصادية-للصف-الحادي-عشر.pdf",
+      "pageCount": 16,
+      "chunkCount": 9,
+      "needsOCR": false,
+      "contentKey": "795b3ff5122c2529bef653cad92adbab154bf095593f7a1e7df0c3c9e2db5879"
+    },
+    {
+      "id": "moe-e007ff6bfd5e5474",
+      "title": "دليل المعلم مادة الجغرافيا والتقنيات الحديثة للصف الثاني عشر",
+      "subjectId": "social",
+      "grade": 12,
+      "sourcePath": "teacher-guides/دليل-المعلم-مادة-الجغرافيا-والتقنيات-الحديثة-للصف-الثاني-عشر.pdf",
+      "pageCount": 172,
+      "chunkCount": 99,
+      "needsOCR": false,
+      "contentKey": "e007ff6bfd5e5474166e79934e6c9131acef03baeb55abbc59f857d5123a96f8"
+    },
+    {
+      "id": "moe-dd235ffbebeeb678",
+      "title": "كتاب الأطلس جغرافي تاريخي الصف الثاني عشر",
+      "subjectId": "social",
+      "grade": 12,
+      "sourcePath": "grade-12/كتاب-الأطلس-جغرافي-تاريخي-الصف-الثاني-عشر.pdf",
+      "pageCount": 181,
+      "chunkCount": 160,
+      "needsOCR": false,
+      "contentKey": "dd235ffbebeeb6789730701fd4f772bbc7979ed024812e6599dabfbb33ffefb9"
+    },
+    {
+      "id": "moe-71aa1c83eaafcfde",
+      "title": "كتاب الجغرافيا الاقتصادية للصف الحادي عشر",
+      "subjectId": "social",
+      "grade": 11,
+      "sourcePath": "grade-11/كتاب-الجغرافيا-الاقتصادية-للصف-الحادي-عشر.pdf",
+      "pageCount": 206,
+      "chunkCount": 9,
+      "needsOCR": false,
+      "contentKey": "71aa1c83eaafcfde42cfc7aa5bd95be0e1f35e273f7296b1c4a0029e98d4e753"
+    }
+  ],
+  "skipped": [
+    {
+      "path": "grade-12/semester-1/كتاب-الكيمياء-التجارب-والأنشطة-للصف-الثاني-عشر-الفصل-الأول.pdf",
+      "reason": "Near-zero extractable text (avg 18.0 chars/page, 2049 total) — needs OCR",
+      "needsOCR": true
+    },
+    {
+      "path": "grade-11/physics_g11p1_Classical.pdf",
+      "reason": "PDF open/extract failed: Invalid PDF structure."
+    },
+    {
+      "path": "grade-11/semester-1/كتاب-الإنجليزية-WORKBOOK-للصف-الحادي-عشر-الفصل-الأول-1.pdf",
+      "reason": "Near-zero extractable text (avg 1.6 chars/page, 152 total) — needs OCR",
+      "needsOCR": true
+    },
+    {
+      "path": "grade-11/semester-1/كتاب-الرياضيات-المتقدمة-كتاب-النشاط-للصف-الحادي-عشر-الفصل-الأول-2.pdf",
+      "reason": "Near-zero extractable text (avg 12.5 chars/page, 1967 total) — needs OCR",
+      "needsOCR": true
+    },
+    {
+      "path": "grade-11/semester-2/كتاب-الإنجليزية-WORKBOOK-للصف-الحادي-عشر-الفصل-الثاني.pdf",
+      "reason": "Near-zero extractable text (avg 0.8 chars/page, 73 total) — needs OCR",
+      "needsOCR": true
+    },
+    {
+      "path": "grade-11/semester-2/كتاب-الرياضيات-الأساسية-كتاب-النشاط-للصف-الحادي-عشر-الفصل-الثاني.pdf",
+      "reason": "Near-zero extractable text (avg 1.2 chars/page, 84 total) — needs OCR",
+      "needsOCR": true
+    },
+    {
+      "path": "grade-11/دليل-أخصائي-التوجيه-المهني-الصف-الحادي-عشر.pdf",
+      "reason": "Near-zero extractable text (avg 17.6 chars/page, 950 total) — needs OCR",
+      "needsOCR": true
+    },
+    {
+      "path": "grade-11/كتاب-الرياضة-المدرسية-للصف-الحادي-عشر.pdf",
+      "reason": "Near-zero extractable text (avg 15.6 chars/page, 2213 total) — needs OCR",
+      "needsOCR": true
+    },
+    {
+      "path": "grade-11/كتاب-المهارات-الموسيقية-للصف-الحادي-عشر.pdf",
+      "reason": "Near-zero extractable text (avg 1.0 chars/page, 100 total) — needs OCR",
+      "needsOCR": true
+    },
+    {
+      "path": "grade-12/semester-1/كتاب-الإنجليزية-workbook-للصف-الثاني-عشر-الفصل-الأول.pdf",
+      "reason": "Near-zero extractable text (avg 2.0 chars/page, 217 total) — needs OCR",
+      "needsOCR": true
+    },
+    {
+      "path": "grade-12/semester-1/كتاب-العلوم-البيئية-كتاب-التجارب-والأنشطة-للصف-الثاني-عشر-الفصل-الأول-2.pdf",
+      "reason": "Near-zero extractable text (avg 10.2 chars/page, 1712 total) — needs OCR",
+      "needsOCR": true
+    },
+    {
+      "path": "grade-12/semester-1/كتاب-الفيزياء-كتاب-التجارب-الأنشطة-للصف-الثاني-عشر-الفصل-الأول.pdf",
+      "reason": "Near-zero extractable text (avg 9.0 chars/page, 1600 total) — needs OCR",
+      "needsOCR": true
+    },
+    {
+      "path": "grade-12/semester-2/كتاب-الرياضيات-المتقدمة-كتاب-النشاط-الصف-الثاني-عشر-الفصل-الثاني.pdf",
+      "reason": "Near-zero extractable text (avg 0.2 chars/page, 28 total) — needs OCR",
+      "needsOCR": true
+    },
+    {
+      "path": "grade-12/sport-cls12-1.pdf",
+      "reason": "Near-zero extractable text (avg 13.8 chars/page, 1681 total) — needs OCR",
+      "needsOCR": true
+    },
+    {
+      "path": "grade-12/كتاب-المفيد-مادة-اللغة-العربية-للصف-الثاني-عشر.pdf",
+      "reason": "Near-zero extractable text (avg 6.6 chars/page, 1713 total) — needs OCR",
+      "needsOCR": true
+    },
+    {
+      "path": "grade-12/كتاب-مسارك-المهني-للصف-الثاني-عشر.pdf",
+      "reason": "Near-zero extractable text (avg 0.0 chars/page, 0 total) — needs OCR",
+      "needsOCR": true
+    },
+    {
+      "path": "summaries-solutions/grade-11/ملخص-درس-أدلة-وجود-الله-تعالى-الصف-الحادي-عشر.pdf",
+      "reason": "Near-zero extractable text (avg 0.0 chars/page, 0 total) — needs OCR",
+      "needsOCR": true
+    },
+    {
+      "path": "summaries-solutions/grade-11/ملخص-درس-الدهون-للصف-الحادي-عشر.pdf",
+      "reason": "Near-zero extractable text (avg 9.5 chars/page, 397 total) — needs OCR",
+      "needsOCR": true
+    },
+    {
+      "path": "teacher-guides/دليل-المعلم-المؤنس-مادة-اللغة-العربية-للصف-الثاني-عشر-2.pdf",
+      "reason": "Near-zero extractable text (avg 0.9 chars/page, 113 total) — needs OCR",
+      "needsOCR": true
+    },
+    {
+      "path": "teacher-guides/دليل-المعلم-المؤنس-مادة-اللغة-العربية-للصف-الحادي-عشر.pdf",
+      "reason": "Near-zero extractable text (avg 0.9 chars/page, 106 total) — needs OCR",
+      "needsOCR": true
+    },
+    {
+      "path": "teacher-guides/دليل-المعلم-مادة-الحاسوب-في-الاتصالات-والأعمال-التجارية-الصف-الحادي-عشر.pdf",
+      "reason": "Near-zero extractable text (avg 0.0 chars/page, 0 total) — needs OCR",
+      "needsOCR": true
+    },
+    {
+      "path": "teacher-guides/دليل-المعلم-مادة-الرياضة-المدرسية-للصف-الحادي-عشر-1.pdf",
+      "reason": "Near-zero extractable text (avg 0.0 chars/page, 0 total) — needs OCR",
+      "needsOCR": true
+    },
+    {
+      "path": "teacher-guides/دليل-المعلم-مادة-الرياضيات-الأساسية-للصف-الثاني-عشر-الفصل-الأول.pdf",
+      "reason": "Near-zero extractable text (avg 0.5 chars/page, 58 total) — needs OCR",
+      "needsOCR": true
+    },
+    {
+      "path": "teacher-guides/دليل-المعلم-مادة-الرياضيات-المتقدمة-للصف-الثاني-عشر-الفصل-الأول.pdf",
+      "reason": "Near-zero extractable text (avg 12.0 chars/page, 3162 total) — needs OCR",
+      "needsOCR": true
+    },
+    {
+      "path": "teacher-guides/دليل-المعلم-مادة-اللغة-الإنجليزية-teachers-book-للصف-الحادي-عشر-الفصل-الأول.pdf",
+      "reason": "Near-zero extractable text (avg 0.0 chars/page, 0 total) — needs OCR",
+      "needsOCR": true
+    }
+  ]
+}

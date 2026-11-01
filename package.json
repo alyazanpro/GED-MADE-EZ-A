@@ -1,0 +1,44 @@
+{
+  "name": "ged-made-ez",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "validate:exam-bank": "tsx scripts/validate_exam_bank.ts",
+    "index:moe-corpus": "tsx scripts/index_moe_books.ts",
+    "index:moe-corpus:chemistry": "tsx scripts/index_moe_books.ts --subject=chemistry",
+    "index:moe-corpus:math": "tsx scripts/index_moe_books.ts --subject=math"
+  },
+  "dependencies": {
+    "@supabase/ssr": "^0.12.5",
+    "@supabase/supabase-js": "^2.115.0",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.6.3",
+    "geist": "^1.7.2",
+    "lru-cache": "^11.5.2",
+    "lucide-react": "^0.487.0",
+    "next": "^15.2.4",
+    "pdfjs-dist": "^4.10.38",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "recharts": "^2.15.1",
+    "tailwind-merge": "^3.0.2",
+    "zod": "^4.6.4"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "^15.2.4",
+    "tailwindcss": "^4",
+    "tsx": "^4.23.12",
+    "typescript": "^5"
+  }
+}

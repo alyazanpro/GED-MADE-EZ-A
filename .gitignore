@@ -1,0 +1,55 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files
+.env*
+!.env.example
+
+# runtime sign-in analytics
+/data/google-signins.json
+# classroom / teacher store (local MVP sync)
+/data/classrooms.json
+# per-user learning sync (local MVP; do not commit student data)
+/data/user-learning/**
+!/data/user-learning/.gitkeep
+
+# Oman MoE textbook downloads (large local corpus; re-fetch via scripts/download_ged_books.py)
+/books/
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# supabase CLI cache
+supabase/.temp/
+

@@ -1,0 +1,7 @@
+node_modules
+.next
+books
+data/google-signins.json
+data/classrooms.json
+data/user-learning
+scripts/__pycache__
